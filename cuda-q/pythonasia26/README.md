@@ -106,4 +106,4 @@ Special thanks to NVIDIA AI Technology Center (NVAITC), Taipei, for supporting t
 ## 📄 License
 
 Workshop materials are released under the [Apache License 2.0](../../LICENSE).  
-© 2026 Dylan Josh Lopez · CYCU / QCSP
+© 2026 Dylan Josh Lopez
