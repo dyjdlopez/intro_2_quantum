@@ -31,8 +31,8 @@ All notebooks run on **Google Colab with a T4 GPU runtime**.
 
 | Notebook | Topic | Open |
 |---|---|---|
-| `cudaqx_fundamentals_pythonasia2026.ipynb` | Qubits · Gates · Circuits · Measurement · Bell State · GHZ · `observe()` · Backend swap | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dyjdlopez/intro_2_quantum/blob/main/cuda-q/pythonasia26/cudaqx_fundamentals_pythonasia2026.ipynb) |
-| `cudaqx_qaoa_maxcut_pythonasia2026.ipynb` | VQC · Max Cut · QUBO · OpenJij SA · Qamomile · VQE · QAOA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dyjdlopez/intro_2_quantum/blob/main/cuda-q/pythonasia26/cudaqx_qaoa_maxcut_pythonasia2026.ipynb) |
+| `cudaq_01.ipynb` | Qubits · Gates · Circuits · Measurement · Bell State · GHZ · `observe()` · Backend swap | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dyjdlopez/intro_2_quantum/blob/main/cuda-q/pythonasia26/cudaqx_fundamentals_pythonasia2026.ipynb) |
+| `cudaq_02.ipynb` | VQC · Max Cut · QUBO · OpenJij SA · Qamomile · VQE · QAOA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dyjdlopez/intro_2_quantum/blob/main/cuda-q/pythonasia26/cudaqx_qaoa_maxcut_pythonasia2026.ipynb) |
 
 ---
 
